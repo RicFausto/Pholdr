@@ -18,7 +18,6 @@ The app runs standalone with no internet connection or external accounts needed.
   - `Time` — last-modified time (`HHMMSS`)
   - `Counter` — zero-padded sequence number
   - `Custom` — your own free-text input
-- **Live preview** — see every original name next to its new name before copying anything.
 - **Automatic subfolder organization** — optionally sort copies into nested folders built from the same tokens (e.g. `Year/Year-Month` → `2026/2026-08`). Folders are created if they don't exist, and reused if they do.
 - **Metadata-preserving copies** — uses `shutil.copy2`, so timestamps are preserved on the copies. Files are copied, never moved or altered.
 - **No external dependencies, no network access** — everything runs locally.
