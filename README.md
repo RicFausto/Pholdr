@@ -4,6 +4,8 @@ A small desktop app for copying and renaming files in bulk, with a thumbnail-gri
  
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+
+### 👉 [Download the latest version](https://github.com/RicFausto/Pholdr/releases/tag/v1.2.0)
  
 ## Features
  
