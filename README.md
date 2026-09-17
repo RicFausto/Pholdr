@@ -1,14 +1,13 @@
 # Pholdr
  
-A small desktop app for copying and renaming files in bulk, with a thumbnail-grid file browser and automatic folder organization. Built with Python's `tkinter`, so there's nothing extra to install to run it from source.
+A small desktop app for copying and renaming files in bulk, with a thumbnail-grid file browser and automatic folder organization.
  
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
  
 ## Features
  
 - **Thumbnail file browser** — pick a folder and see real photo previews (or a labeled placeholder for other file types) in a scrollable grid that reflows as you resize the window. A zoom slider adjusts thumbnail size on the fly.
-- **Per-file selection** — check/uncheck individual files, or use the "All" checkbox to select/clear everything at once.
 - **Token-based renaming** — build new filenames from file metadata and your own custom text:
   - `Name` — original filename (without extension)
   - `Year`, `Month`, `Day` — from the file's last-modified date
