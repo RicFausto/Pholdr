@@ -1,4 +1,4 @@
-# Copy & Rename
+# Pholdr
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
